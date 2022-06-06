@@ -1,0 +1,37 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Drunken Stars"
+description: > # this means to ignore newlines until "email:"
+  I say nope, nope, nope.
+
+email: pratikdak1820@gmail.com
+logo: "/assets/images/logo.gif"
+float_logo: false # true, false (default)
+cover: "/assets/images/background_image.jpg"
+
+name: "Pratik Choudhury"
+author: "Pratik Choudhury"
+author_image: "/assets/images/author.jpg"
+
+paginate: 10
+
+url: "http://www.thenopebox.com" # the base hostname & protocol for your site
+baseurl: ""
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon: github
+    url: https://github.com/prrtk
+    desc: Find me on github
+    share_url:
+    share_title:
+    share_link:
