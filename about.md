@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink:(https://prrtk.github.io/Astrophile/)
 ---
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
