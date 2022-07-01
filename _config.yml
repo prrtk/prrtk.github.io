@@ -29,12 +29,9 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon: github
-    url: https://github.com/prrtk
-    desc: Find me on github
-    icon: twitter
-    url: https://twitter.com/prtkchoudhury_
-    desc: Here is my twitter
+    icon: Link
+    url: https://prrtk.github.io/Astrophile/
+    desc: Find me
     share_url:
     share_title:
     share_link:
